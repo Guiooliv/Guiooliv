@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100F10&height=120&section=header"/>
 
-<!--
-**Guiooliv/Guiooliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+name+is+Guilherme+Serra+de+Oliveira;I'm+20+years+old;I+am+from+Brazil,+CE;I+study+Computer+Science+at+FBUni;+Welcome!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guiooliv&show_icons=true&count_private=true&hide_border=true&title_color=FF0043&icon_color=FF0043&text_color=FAFAFA&bg_color=100F10" alt="Guilherme github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiooliv&layout=compact&hide_border=true&title_color=FF0043&text_color=FAFAFA&bg_color=100F10" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Guiooliv&theme=high-contrast)
+
+
+<div align="center">  
+<a href="www.instagram.com/Guiooliv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
