@@ -14,4 +14,4 @@
 <a href="https://www.instagram.com/guiooliv_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-100F10?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
-![snake gif](https://github.com/Guiooliv/Guiooliv/blob/output/github-contribution-grid-snake.svg)
+
