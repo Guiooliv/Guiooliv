@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Linguagens e ferramentas utilizadas:</h3>
+<h3 align="left">Linguagens utilizadas:</h3>
 
 ###
 
