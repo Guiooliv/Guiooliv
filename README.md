@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Olá, Bem vindo!</h1>
+<h1 align="center">Olá, bem vindo!</h1>
 
 ###
 
