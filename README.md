@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Ola! Bem vindo</h1>
+<h1 align="center">Olá, Bem vindo!</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">- Me chamo Guilherme Serra, sou estudante de Ciências da Computação.<br><br>- Atualmente estagiando como Analista de Dados no Banco do Nordeste do Brasil. <br><br>- Tenho um forte interesse em desenvolvimento Fullstack.</h4>
+<h4 align="left">- Me chamo Guilherme Serra, sou estudante de Ciências da Computação.<br><br>- Atualmente, estou estagiando como Analista de Dados no Banco do Nordeste do Brasil. <br><br>- Tenho um forte interesse em desenvolvimento Fullstack.</h4>
 
 ###
 
