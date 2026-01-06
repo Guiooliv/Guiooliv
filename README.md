@@ -20,7 +20,12 @@
 
 ###
 
-<h4 align="left">- Me chamo Guilherme Serra, sou estudante de Ciências da Computação. (7° semestre)<br><br>- Atualmente, estou estagiando como Analista de Dados no Banco do Nordeste do Brasil. <br><br>- Tenho um forte interesse em desenvolvimento Fullstack.</h4>
+<h4 align="left">- Olá, me chamo Guilherme Serra 👋
+Sou estudante de Ciências da Computação (8º semestre), com foco em desenvolvimento Fullstack.
+
+Tenho experiência prática em análise de dados adquirida durante estágio no Banco do Nordeste do Brasil, além de projetos acadêmicos e pessoais utilizando tecnologias modernas de front-end e back-end.
+
+Atualmente, estou aprofundando meus conhecimentos em React, Node.js, APIs REST e arquitetura de aplicações web, com interesse em oportunidades como Desenvolvedor Fullstack / Júnior.</h4>
 
 ###
 
