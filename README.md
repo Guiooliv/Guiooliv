@@ -20,8 +20,8 @@
 
 ###
 
-<h4 align="left">- Olá, me chamo Guilherme Serra 👋
-Sou estudante de Ciências da Computação (8º semestre), com foco em desenvolvimento Fullstack.
+<h4 align="left">- Olá, me chamo Guilherme Serra 👋 <br><br>
+Sou estudante de Ciências da Computação (8º semestre), com foco em desenvolvimento Fullstack. <br><br>
 
 Tenho experiência prática em análise de dados adquirida durante estágio no Banco do Nordeste do Brasil, além de projetos acadêmicos e pessoais utilizando tecnologias modernas de front-end e back-end.
 
